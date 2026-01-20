@@ -133,7 +133,8 @@ Python virtual environments are used to solve the following problems:
 
 **1. Create virtual environment**
 ```bash
-python3 -m venv venv
+Sudo apt install python3-venv
+python3 -m venv env
 ```
 
 **2. Activate virtual environment Linux / macOS**
